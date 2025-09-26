@@ -1,0 +1,6 @@
+# 忽略编译产物
+/output/
+*.exe
+
+# 忽略VS Code临时文件（可选）
+.vscode/
